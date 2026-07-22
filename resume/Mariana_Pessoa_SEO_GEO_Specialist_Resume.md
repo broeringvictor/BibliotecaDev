@@ -8,7 +8,7 @@ Florianópolis, SC, Brazil · +55 (48) 99604-8355 · maridoseo@gmail.com · link
 
 ## Summary
 
-SEO & Growth specialist with 8+ years turning organic channels into acquisition engines for B2B SaaS. Currently owns SEO and Site strategy at Blip, including a full site redesign as Product Owner, and is building the technical foundation for GEO (Generative Engine Optimization). Previously drove CRO and experimentation at Aurum, with direct impact on trials, SQLs and sales conversion.
+SEO & Growth specialist with 8+ years turning organic channels into acquisition engines for B2B SaaS. Currently owns SEO and Site strategy at Blip, optimizing and expanding GEO (Generative Engine Optimization) initiatives to grow visibility in AI-driven answer engines. Previously drove CRO and experimentation at Aurum, with direct impact on trials, SQLs and sales conversion.
 
 ---
 
@@ -17,10 +17,9 @@ SEO & Growth specialist with 8+ years turning organic channels into acquisition 
 ### Senior Marketing Analyst — SEO & Experimentation | Blip
 *Dec 2025 – Present*
 
-- Product Owner of Blip's full website redesign (PT/EN/ES), acting as the technical reference for SEO across Content, Engineering and Design
-- Redesign of already-published pages increased MQLs by 20%
-- Ran a technical SEO audit and built a prioritized improvement backlog based on MQL impact
-- Laying the technical foundation for GEO to expand visibility in AI-driven answer engines
+- Technical reference for SEO across Content, Engineering and Design teams
+- Responsible for auditing the Site and Blog, prioritizing the backlog according to impact for the business
+- Optimizing and expanding GEO (Generative Engine Optimization) initiatives to grow visibility in AI-driven answer engines
 
 ### Senior CRO Analyst — Growth Marketing | Aurum
 *Jan 2024 – Nov 2025*
@@ -44,7 +43,7 @@ SEO & Growth specialist with 8+ years turning organic channels into acquisition 
 ### Content Analyst | Aurum
 *Oct 2020 – Jan 2022*
 
-- Ran Aurum's legal content partnership program, reviewing content for SEO and building keyword-driven briefs
+- Owned Aurum's Columnist Program (legal content partnerships), growing daily content readership from 5K to 20K users through SEO-driven content strategy
 
 ### Content & SEO Strategist (Freelance) | Mundinho SEO
 *Jan 2022 – Oct 2025*
@@ -61,6 +60,8 @@ SEO & Growth specialist with 8+ years turning organic channels into acquisition 
 ## Education
 
 **Reforge** — Growth Strategy & AI Growth Programs (2025)
+
+**CXL** — CRO Minidegree
 
 **Universidade do Sul de Santa Catarina** — B.A. in Journalism (2017 – 2021)
 
