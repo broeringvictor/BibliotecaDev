@@ -8,7 +8,7 @@ Florianópolis, SC, Brazil · +55 (48) 99604-8355 · maridoseo@gmail.com · link
 
 ## Summary
 
-SEO & GEO Specialist with 8+ years of experience turning organic channels into acquisition engines for B2B SaaS products. Currently leading SEO, Site and Organic Acquisition strategy at Blip, combining technical SEO, content strategy and early Generative Engine Optimization (GEO) practices to increase qualified traffic and visibility across search and AI-driven answer engines. Strong track record in A/B testing, CRO and cross-functional collaboration with Engineering, Product and Sales, with measurable impact on MQLs, SQLs, trials and revenue.
+SEO & Growth specialist with 8+ years turning organic channels into acquisition engines for B2B SaaS. Currently owns SEO and Site strategy at Blip, including a full site redesign as Product Owner, and is building the technical foundation for GEO (Generative Engine Optimization). Previously drove CRO and experimentation at Aurum, with direct impact on trials, SQLs and sales conversion.
 
 ---
 
@@ -17,52 +17,44 @@ SEO & GEO Specialist with 8+ years of experience turning organic channels into a
 ### Senior Marketing Analyst — SEO & Experimentation | Blip
 *Dec 2025 – Present*
 
-Leading the strategic SEO and Organic Acquisition front, structuring sustainable growth levers and optimizing the user journey across the Blip ecosystem.
-
-- Analyzed current acquisition scenarios to identify new organic growth loops and technical bottlenecks
-- Built and prioritized a website and product-page improvement backlog based on potential impact on marketing-qualified leads (MQLs)
-- Implemented processes to align content and technical SEO strategy with business goals and product roadmap
-- Served as the interface between Content, Engineering and Design teams to ensure fast delivery of performance and UX improvements
-- Built the multilingual SEO strategy across Portuguese, English and Spanish
+- Product Owner of Blip's full website redesign (PT/EN/ES), acting as the technical reference for SEO across Content, Engineering and Design
+- Redesign of already-published pages increased MQLs by 20%
+- Ran a technical SEO audit and built a prioritized improvement backlog based on MQL impact
+- Laying the technical foundation for GEO to expand visibility in AI-driven answer engines
 
 ### Senior CRO Analyst — Growth Marketing | Aurum
 *Jan 2024 – Nov 2025*
 
-Led Experimentation and Organic Acquisition strategy, acting as the link between Marketing, Product and Sales to drive data-informed decisions.
-
-- Increased trial generation for the Smart plan by 37.5% and lifted sales conversion rate by 25% through experimentation
-- Validated WhatsApp as an acquisition channel, achieving a 42.9% increase in contact CTR and a 17.2% chat-to-sale conversion rate
-- Ran A/B tests to align visual experience between website and product
-- Implemented an interactive guided tour and redesigned forms with calendar integration, raising demo booking rate from 53% to 60% and increasing SQL volume
-- Defined experimentation processes, prioritized the hypothesis backlog and ensured strategic learning from every test
-- Analyzed data from Google Analytics, Google Search Console, Clarity and VWO to identify friction points on strategic pages
+- Increased trial generation by 37.5% and lifted sales conversion by 25% through experimentation
+- Validated WhatsApp as an acquisition channel: +42.9% contact CTR, 17.2% chat-to-sale conversion
+- Redesigned demo booking flow (guided tour, calendar integration), raising booking rate from 53% to 60%
+- Owned the experimentation backlog and analyzed GA, Search Console, Clarity and VWO data to find funnel friction
 
 ### Senior SEO Analyst | Aurum
 *Apr 2023 – Jan 2024*
 
-- Owned organic strategy for the company's products and led cross-functional SEO projects involving content analysts, UX and developers
+- Owned organic strategy across the product portfolio, leading cross-functional SEO projects with Content, UX and Engineering
 
 ### Mid-Level SEO Analyst | Aurum
 *Jan 2022 – Apr 2023*
 
-- Drove organic growth strategy for the Aurum Portal and flagship products (Themis and Astrea): keyword research, backlink/guest-post opportunities, content optimization and ASO for the Astrea app
-- Tracked SEO performance metrics, ran organic-traffic experiments and built SEO playbooks and training materials
-- Key tools: SEMrush, SimilarWeb, Google Search Console, Google Analytics, Screaming Frog, Data Studio, Google Optimize and Clarity
+- Drove organic growth for the Aurum Portal and flagship products (Themis, Astrea): keyword research, backlinks, content optimization, ASO
+- Tools: SEMrush, SimilarWeb, Search Console, Google Analytics, Screaming Frog, Data Studio, Clarity
 
 ### Content Analyst | Aurum
 *Oct 2020 – Jan 2022*
 
-- Managed Aurum's Columnist Program (legal content partnerships), reviewing content for SEO, running keyword research and building content briefs
+- Ran Aurum's legal content partnership program, reviewing content for SEO and building keyword-driven briefs
 
 ### Content & SEO Strategist (Freelance) | Mundinho SEO
 *Jan 2022 – Oct 2025*
 
-- Delivered SEO and content strategy services for clients including TechTudo, OLX Brasil and Conversion
+- SEO and content strategy for TechTudo, OLX Brasil and Conversion
 
-### Marketing Analyst | Captarmais / F/FWD Digital Agency / Casan
+### Marketing Analyst | Captarmais · F/FWD · Casan
 *2017 – 2019*
 
-- Early marketing career spanning social media management, content production, press relations and campaign execution for clients such as Instituto Embelleze, Dale Carnegie, Studio Z Calçados and Authoria
+- Early career in social media, content and press relations for clients including Instituto Embelleze and Dale Carnegie
 
 ---
 
@@ -82,9 +74,9 @@ Technical SEO · Growth Strategy · Advanced Experimentation Masterclass · Cont
 
 ## Skills
 
-SEO Technical Strategy & GEO (Generative Engine Optimization) · Growth Marketing · CRO & A/B Testing · Product Roadmap Collaboration · Stakeholder Management
+Technical SEO · GEO (Generative Engine Optimization) · Growth Marketing · CRO & A/B Testing · Product Ownership · Stakeholder Management
 
-**Tools:** SEMrush, Google Search Console, Google Analytics, Screaming Frog, SimilarWeb, VWO, Google Optimize, Microsoft Clarity, Data Studio
+**Tools:** SEMrush, Search Console, Google Analytics, Screaming Frog, SimilarWeb, VWO, Google Optimize, Clarity, Data Studio
 
 ---
 
